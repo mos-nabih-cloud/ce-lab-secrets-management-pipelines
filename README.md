@@ -53,6 +53,9 @@ git config core.hooksPath .githooks
 
 ### Secrets Masking Demo
 ![Secrets demo workflow run](screenshots/02-secrets-demo.png)
+
+### Commit hook
+![Commit hook](screenshots/03-commit-hook.png)
  
 ## Key Decisions
 - Used **::add-mask::** for dynamically retrieved secrets
